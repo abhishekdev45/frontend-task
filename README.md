@@ -32,6 +32,21 @@ You can also view a live demo of the app [here](<https://frontend-task-green.ver
 
 
 # Screenshots
+### Desktop view
+![Desktop-1](./Screenshots/Desktop-ChartsMaps)
+![Desktop-2](./screenshots/Desktop-contact)
+![Desktop-3](./screenshots/Desktop-contact-form)
+![Desktop-4](./screenshots/Desktop-contact-list)
+![Desktop-5](./screenshots/Desktop-home)
+
+
+### Mobile view
+![Mobile-1](./screenshots/mobile-1.jpg)
+![Mobile-2](./screenshots/mobile-2.jpg)
+![Mobile-3](./screenshots/mobile-3.jpg)
+![Mobile-4](./screenshots/mobile-4.jpg)
+
+
 
 
 
