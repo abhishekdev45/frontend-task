@@ -8,12 +8,10 @@ Make sure you have Node.js and npm installed on your machine.
 
 ## Installation
 1. Clone the repository to your local machine.
-###git clone <repository-url>
 
 2. Navigate to the project directory in your terminal.
 
 3. Run the command `npm install` to install the dependencies.
-###npm install
 
 
 ## Running the App
