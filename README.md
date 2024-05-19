@@ -33,18 +33,13 @@ You can also view a live demo of the app [here](<https://frontend-task-green.ver
 
 # Screenshots
 ### Desktop view
-![Desktop-1](./Screenshots/Desktop-ChartsMaps)
-![Desktop-2](./screenshots/Desktop-contact)
-![Desktop-3](./screenshots/Desktop-contact-form)
-![Desktop-4](./screenshots/Desktop-contact-list)
-![Desktop-5](./screenshots/Desktop-home)
-
+<img src="./Screenshots/Desktop-ChartsMaps.png" alt="Desktop-1" width="500"/>   <img src="./Screenshots/Desktop-contact.png" alt="Desktop-2" width="500"/>
+<img src="./Screenshots/Desktop-contact-form.png" alt="Desktop-3" width="500"/>   <img src="./Screenshots/Desktop-contact-list.png" alt="Desktop-4" width="500"/>
+<img src="./Screenshots/Desktop-home.png" alt="Desktop-5" width="500"/>
 
 ### Mobile view
-![Mobile-1](./screenshots/mobile-1.jpg)
-![Mobile-2](./screenshots/mobile-2.jpg)
-![Mobile-3](./screenshots/mobile-3.jpg)
-![Mobile-4](./screenshots/mobile-4.jpg)
+<img src="./Screenshots/mobile-1.jpg" alt="Mobile-1" width="300"/>   <img src="./Screenshots/mobile-3.jpg" alt="Mobile-3" width="300"/>   <img src="./Screenshots/mobile-4.jpg" alt="Mobile-4" width="300"/>
+
 
 
 
