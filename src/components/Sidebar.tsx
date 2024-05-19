@@ -29,15 +29,15 @@ const Sidebar: React.FC<SidebarProps> = ({ links, open, toggleSidebar }) => {
         <ul className="pt-6">
           {/* Map through links array and render each link */}
           {links.map((link, index) => (
+           <Link to={link.path}>
             <li
               key={index}
               className="flex rounded-md p-2 cursor-pointer hover:bg-teal-400 text-white items-center gap-x-4 mt-2"
               onClick={toggleSidebar} 
             >
-              <Link to={link.path}>
                 <span className="flex-1">{link.label}</span>
-              </Link>
             </li>
+            </Link>
           ))}
         </ul>
       </div>
